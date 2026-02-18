@@ -1,4 +1,5 @@
-# Full Stack Project: Django REST Framework + Next.js
+# Full Stack Project: Django REST Framework + Next.js 
+
 
 This project contains a backend powered by Python Django REST Framework and a frontend built with Next.js (TypeScript, App Router).
 
