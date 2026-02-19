@@ -28,11 +28,11 @@ This project contains a backend powered by Python Django REST Framework and a fr
 4. Add `'rest_framework'` and `'api'` to `INSTALLED_APPS` in `backend_project/settings.py`.
 5. Run migrations:
    ```bash
-   python manage.py migrate
+   python3 manage.py migrate
    ```
 6. Start the development server:
    ```bash
-   python manage.py runserver
+   python3 manage.py runserver
    ```
 
 ### File Overview
